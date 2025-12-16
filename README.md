@@ -53,11 +53,10 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 1. Place a DLC automation script in each DLC directory.  
 2. Rename each script according to its corresponding DLC.  
 3. Update the paths in `FullyAutomate.py` to point to each DLC script directory.  
-4. Run the campaign:
-
-```bash
-python FullyAutomate.py
+4. Run the campaign
 
 
 
-For detailed information on setup steps, please refer to the [OpenFast DLC Autorun Optimus repository](https://github.com/Araz-m/OpenFast_DLC_Autorun_Optimus_295_20_Hochschule-Flensburg/tree/main).
+
+For detailed information on setup steps, please refer to the [OpenFAST-DLC-sampler-Automator
+](https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator/tree/main).
