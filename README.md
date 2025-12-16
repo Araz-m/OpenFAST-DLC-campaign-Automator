@@ -1,5 +1,5 @@
 # OpenFast-DLC-campain-Automator
-This tool is capable of running a complete loop of different DLC simulations in openfast simultaneously.
+This tool is capable of running a complete loop of different DLC simulations in openfast sequentially.
 
 **Originally developed during the [Optimus 295-20 wind turbine project](https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20) at Flensburg University of Applied Sciences.**
 --------------------------------------------------------------------------------
