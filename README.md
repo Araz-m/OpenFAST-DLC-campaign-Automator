@@ -2,7 +2,7 @@
 
 A Python tool for **automating sequential execution of multiple OpenFAST DLC simulations** across different design load cases (DLCs). 
 
-This program is designed to complement the [OpenFAST-DLC-sampler-Automator](https://github.com/Araz-m/OpenFAST-DLC-Runner), which handles running individual DLC simulations. When multiple DLCs need to be executed consecutively, this tool allows the entire campaign to run **unattended**, without requiring the user to manually start each DLC.
+This program is designed to complement the [OpenFAST-DLC-Runner](https://github.com/Araz-m/OpenFAST-DLC-Runner), which handles running individual DLC simulations. When multiple DLCs need to be executed consecutively, this tool allows the entire campaign to run **unattended**, without requiring the user to manually start each DLC.
 
 ---
 
@@ -43,7 +43,7 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 
 - Python 3.x  
 - OpenFAST installed and configured  
-- DLC automation scripts (e.g., generated with [OpenFAST-DLC-sampler-Automator](https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator))  
+- DLC automation scripts (e.g., generated with [OpenFAST-DLC-Runner](https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator))  
 - Windows environment (paths currently hard-coded)  
 
 ---
@@ -58,7 +58,7 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 
 
 
-For detailed information on setup steps, please refer to the [OpenFAST-DLC-sampler-Automator
+For detailed information on setup steps, please refer to the [OpenFAST-DLC-Runner
 ](https://github.com/Araz-m/OpenFAST-DLC-Runner/tree/main).
 
 ## License
