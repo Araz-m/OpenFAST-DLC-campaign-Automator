@@ -1,4 +1,15 @@
 #Developed by Araz Hamayeli Mehrabani, Flensburg University of Applied Sciences
+
+"""
+OpenFAST-DLC-Campaign-Runner
+
+Runss multiple DLC simulations across different design load cases,
+automating sequential execution and output management for OpenFAST.
+
+Developed for project-specific academic and engineering workflows.
+"""
+
+
 import subprocess
 import os
 import sys
@@ -65,3 +76,4 @@ for script_info in scripts:
     print("=" * 40)
 
 print("All scripts completed.")
+
